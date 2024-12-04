@@ -16,7 +16,7 @@ A Flask-based API that provides emotional support by detecting user emotions and
 
  Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo/empathy-bot.git
+   git clone https://github.com/mrayushmehrotra/empathy-bot.git
    cd empathy-bot
   ```
 
